@@ -9,7 +9,7 @@ There is a lack of public available datasets on financial services and specially
 PaySim simulates mobile money transactions based on a sample of real transactions extracted from one month of financial logs from a mobile money service implemented in an African country. The original logs were provided by a multinational company, who is the provider of the mobile financial service which is currently running in more than 14 countries all around the world.
 
 ## How to run
-To run the code you will have to download the repository and the dataset from [Kaggle]. Change the paths inside the files. The fastest way to run the code is to open the files in Google Colab. Alternatively you can just open [Data Visualization](https://github.com/nickninov/Fraud-Detection/blob/main/Data_Visualisation.ipynb) to visualise the data and the data cleaning process. [Algorithms.ipynb](https://github.com/Kannupriya1999/Credit-card-Fraud-detection/blob/main/Algorithms.ipynb) contains all the algorithms and their results.
+To run the code you will have to download the repository and the dataset from [Kaggle]. Change the paths inside the files. The fastest way to run the code is to open the files in Google Colab. Alternatively you can just open [Data_Visualization.ipynb](https://github.com/Kannupriya1999/Credit-card-Fraud-detection/blob/main/Data_Visualisation.ipynb) to visualise the data and the data cleaning process. [Algorithms.ipynb](https://github.com/Kannupriya1999/Credit-card-Fraud-detection/blob/main/Algorithms.ipynb) contains all the algorithms and their results.
 <br><br>
 
 ## Further research
